@@ -1,4 +1,4 @@
-baseurl = "https://pravuX.github.io/blog"
+baseurl = "/"
 title = "My blog"
 theme = "ghostwriter"
 publishDir = "docs"
