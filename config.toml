@@ -1,0 +1,18 @@
+baseurl = "https://pravuX.github.io/blog"
+title = "My blog"
+theme = "ghostwriter"
+publishDir = "docs"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/pravuX"
+    twitter = "https://twitter.com/_pravuX"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
