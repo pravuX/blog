@@ -2,61 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pravuX.github.io/blog/page/about/</loc>
+    <loc>/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/test/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://pravuX.github.io/blog/page/contact/</loc>
+    <loc>/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://pravuX.github.io/blog/</loc>
+    <loc>/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://pravuX.github.io/blog/page/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://pravuX.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/post/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/development/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/go/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/golang/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/templates/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/themes/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pravuX.github.io/blog/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
   </url>
 </urlset>
